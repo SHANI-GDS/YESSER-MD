@@ -1,11 +1,11 @@
 </h1> 
-<p align="center"> 𝖄𝕰𝕾𝕾𝕰𝕽 𝕸𝕯
+<p align="center"> 𝐒𝐇𝐀𝐍𝐈-𝐌𝐃
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+SHANI+MD+BOT+CREATED+BY+SHANI+994+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
- <a href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM">
+ <a href="https://i.imgur.com/Mbnk3am.jpeg">
  <img alt="Ⓢ𝐇𝐀𝐍𝐈 Ⓜ𝐃" height="300" src="https://files.catbox.moe/eou4n8.jpeg".
 
 </h1> 
