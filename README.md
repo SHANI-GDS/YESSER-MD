@@ -5,12 +5,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+SHANI+MD+BOT+CREATED+BY+SHANI+994+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
- <a href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv">
+ <a href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM">
  <img alt="Ⓢ𝐇𝐀𝐍𝐈 Ⓜ𝐃" height="300" src="https://files.catbox.moe/eou4n8.jpeg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
-YESSER MD</b>, simple powerful bot </p>
+SHANI MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
@@ -20,7 +20,7 @@ YESSER MD</b>, simple powerful bot </p>
 <a href="https://github.com/yassin994/YESSER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/YESSER-MD?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{𝐒𝐇𝐀𝐍𝐈-994}/count.svg" alt="𝐒𝐇𝐀𝐍𝐈-𝐌𝐃 :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{𝐒𝐇𝐀𝐍𝐈-MD}/count.svg" alt="𝐒𝐇𝐀𝐍𝐈-𝐌𝐃 :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
@@ -30,7 +30,7 @@ YESSER MD</b>, simple powerful bot </p>
 ---
 
 <p align="center">
-  <a href="https://github.com/yassin994/yesser_md"><b>𝐒𝐇𝐀𝐍𝐈 𝐌𝐃</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/SHANI-GDS/yesser_md"><b>𝐒𝐇𝐀𝐍𝐈 𝐌𝐃</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ YESSER MD</b>, simple powerful bot </p>
 FORK this repo 𝐒𝐇𝐀𝐍𝐈-𝐌𝐃
 
 
-<a href="https://github.com/yassin994/YESSER-MD/fork"><img title="Tap Here Open session site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/SHANI-GDS/YESSER-MD/tree/main?tab=readme-ov-file"><img title="Tap Here Open session site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
@@ -81,7 +81,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+<a><img src='https://telegra.ph/file/fac2e2bad83543610e97f.jpg'/></a><a><img src='https://telegra.ph/file/fac2e2bad83543610e97f.jpg'/></a> 
 
 
 
@@ -97,7 +97,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
 <br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-1/tree/main">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Shani994/SHANI-1/tree/main">
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
@@ -135,7 +135,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 
-#### <a href="https://github.com/yassin994/YESSER-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
+#### <a href="https://github.com/SHANI-GDS/YESSER-MD/tree/main?tab=readme-ov-file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
 
 
 
@@ -145,33 +145,33 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ## DO YOU NEED SUPPORT? 🤠yes im here to help you 24hrs. 
 
 🎁 owner on wastapp 🤙
-<a href="https://wa.me/255621995482?text=Hi+YESSERTECH+I+Need+Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
+<a href="https://wa.me/923455116994?text=Hi+SHANI-MD+I+Need+Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="923455116994" height="60" width="70" /></a>
 
 
-𝐬𝐡𝐚𝐧𝐢 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙜𝙧𝙤𝙪𝙥🎤
+*SHANI SUPPORT GROUP*🎤
 <a
-href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv" target="blank"><img
+href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM" target="blank"><img
  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="yessertech" height="60" width="70" /></a>
 
 
 😭 FOLLOW MY YOUTUBE CHANNEL
-<a href="https://www.youtube.com/@Yesserboy92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yessertech" height="60" width="70" /></a>
+<a href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yessertech" height="60" width="70" /></a>
 
 
 ## License
 
-The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot SHANI MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️🤠;DEVELOPED+BY+YESSER+TECH;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+Number-One; Don't-Trust+Any One+🖐️🤠;DEVELOPED+BY+SHANI+MD;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
 
 
 🌟 *𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐈𝐍𝐆 𝐒𝐇𝐀𝐍𝐈🤠_𝐌𝐃*
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+YESSER- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+SHANI- MD+MADE+IN+SHANI-MD+🇵🇰♥️" alt="Typing SVG" /></a>
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**YESSIR TECH**](https://github.com/yassin994)
+- [**SHANI TECH**](https://github.com/yassin994)
 - [**BONIPHACE TECH**](http://github.com/Boniphace30)
 - [**Developers YT**](https://www.youtube.com/@Yesserboy92)
 
@@ -179,7 +179,7 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 ★im born to win🏹. ©
      
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+YESSER+MD🤠" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=Keep+Using+SHANI+MD🤠" alt="Typing SVG" /></a>
 
 
 
@@ -193,14 +193,14 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/255716662453?"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+    <td><a href="https://wa.me/255716662453?"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width="180"</td>
+    <td><a href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width="180"</td>
   </tr>
 </table>
 
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/fac2e2bad83543610e97f.jpg'/></a>
 
 
 
@@ -222,10 +222,10 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 💔 *Cvv* 808
 ❤️. *Exp* 10/27
 
-💀 *name* yesser tech
-💀 *country* Tanzania
+💀 *NAME* SHANI MD
+💀 *COUNTRY* PAKISTAN
 
-💀. *city* Dar es salaam
+💀. *CITY* LAHORE
 ................................................
 
 
@@ -233,7 +233,7 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 
  
  <a href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv">
- <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="200" src="https://files.catbox.moe/q7aubp.mp4".
+ <img alt="SHANI MD" height="200" src="https://files.catbox.moe/q7aubp.mp4".
 
 
 ❤️ one love .................
