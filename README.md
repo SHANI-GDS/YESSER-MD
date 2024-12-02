@@ -189,18 +189,18 @@ The WhatsApp Bot SHANI MD is released under the [MIT License](https://opensource
 
 <table>
   <tr>
-    <td>YESSER</td></td>
+    <td>SHANI</td></td>
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/255716662453?"><img src="https://i.imgur.com/Mbnk3am.jpeg" width="180"</td>
-    <td><a href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width="180"</td>
+    <td><a href="https://wa.me/923455116994?"><img src="https://i.imgur.com/Mbnk3am.jpeg" width="180"</td>
+    <td><a href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM"><img src="https://i.imgur.com/Mbnk3am.jpeg" width="180"</td>
   </tr>
 </table>
 
 </p>
 
-<a><img src='https://i.imgur.com/Mbnk3am.jpeg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
