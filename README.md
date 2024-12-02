@@ -14,10 +14,10 @@ SHANI MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin994?label=Followers&style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/YESSER-MD?&style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/YESSER-MD?style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/YESSER-MD?label=Watching&style=social"></a>
+<a href="https://github.com/SHANI-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin994?label=Followers&style=social"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SHANI-GDS/SHANI-MD?&style=social"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SHANI-GDS/SHANI-MD?style=social"></a>
+<a href="https://github.com/SHANI-GDS/SHANI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SHANI-GDS/SHANI-MD?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{𝐒𝐇𝐀𝐍𝐈-MD}/count.svg" alt="𝐒𝐇𝐀𝐍𝐈-𝐌𝐃 :: Visitor's Count"/></p>
@@ -81,7 +81,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
     
-<a><img src='https://telegra.ph/file/fac2e2bad83543610e97f.jpg'/></a><a><img src='https://telegra.ph/file/fac2e2bad83543610e97f.jpg'/></a> 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 
 
@@ -135,7 +135,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 
-#### <a href="https://github.com/SHANI-GDS/YESSER-MD/tree/main?tab=readme-ov-file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
+#### <a href="https://github.com/SHANI-GDS/SHANI-MD/tree/main?tab=readme-ov-file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
 
 
 
@@ -193,14 +193,14 @@ The WhatsApp Bot SHANI MD is released under the [MIT License](https://opensource
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/255716662453?"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width="180"</td>
+    <td><a href="https://wa.me/255716662453?"><img src="https://i.imgur.com/Mbnk3am.jpeg" width="180"</td>
     <td><a href="https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width="180"</td>
   </tr>
 </table>
 
 </p>
 
-<a><img src='https://telegra.ph/file/fac2e2bad83543610e97f.jpg'/></a>
+<a><img src='https://i.imgur.com/Mbnk3am.jpeg'/></a>
 
 
 
@@ -215,7 +215,7 @@ The WhatsApp Bot SHANI MD is released under the [MIT License](https://opensource
 
 
 ## like that one 🎁herouk card🎁##
-......... YESSER CARD............
+......... SHANI CARD............
 
 🎁 *Card* 4403530005953162
 
